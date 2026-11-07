@@ -11,7 +11,7 @@ Lately I've been focusing on **applied AI for business processes**: connecting E
 
 **Projects**
 - [Interactive CV](https://victoriacarbonell.github.io): my experience, projects and background
-- [NutriApp](https://github.com/victoriacarbonell/NutriApp): calorie and nutrition tracker PWA with AI photo analysis (React, TypeScript, Express, PostgreSQL), built with AI-assisted development on Replit
+- [NutriApp](https://github.com/victoriacarbonell/NutriApp): calorie and nutrition tracker PWA with AI photo analysis (React, TypeScript, Express, PostgreSQL), built with AI-assisted development on Replit · work in progress
 
 **Stack:** Odoo · Python · SQL · Docker · Azure · LLMs · MCP
 
