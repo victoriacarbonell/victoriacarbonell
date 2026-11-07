@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Victoria 👋
 
-<!--
-**victoriacarbonell/victoriacarbonell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Odoo consultant at [Mirandir](https://mirandir.es) with a background in industrial engineering. I work with manufacturing, distribution and e-commerce companies: analysing their processes, configuring Odoo and building custom modules in Python.
 
-Here are some ideas to get you started:
+Lately I've been focusing on **applied AI for business processes**: connecting ERPs to LLM assistants through MCP so teams can query and operate Odoo in natural language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- Integrating Odoo with AI assistants via MCP
+- Learning about LLMs, agents and Claude through Anthropic Academy
+- Master's in Industrial Engineering at UPCT (Cartagena, Spain)
+
+**Projects**
+- [Interactive CV](https://victoriacarbonell.github.io): my experience, projects and background
+- [NutriApp](https://github.com/victoriacarbonell/NutriApp): calorie and nutrition tracker PWA with AI photo analysis (React, TypeScript, Express, PostgreSQL)
+
+**Stack:** Odoo · Python · SQL · Docker · Azure · LLMs · MCP
+
+📫 [LinkedIn](https://www.linkedin.com/in/victoriacarbonellsanchez/) · [CV](https://victoriacarbonell.github.io)
