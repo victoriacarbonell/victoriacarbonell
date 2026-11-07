@@ -1,6 +1,6 @@
 ### Hi, I'm Victoria 👋
 
-I'm an Odoo consultant at [Mirandir](https://mirandir.es) with a background in industrial engineering. I work with manufacturing, distribution and e-commerce companies: analysing their processes, configuring Odoo and building custom modules in Python.
+I'm an Odoo consultant with a background in industrial engineering. I work with manufacturing, distribution and e-commerce companies: analysing their processes, configuring Odoo and building custom modules in Python.
 
 Lately I've been focusing on **applied AI for business processes**: connecting ERPs to LLM assistants through MCP so teams can query and operate Odoo in natural language.
 
