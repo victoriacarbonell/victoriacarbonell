@@ -11,6 +11,8 @@ Lately I've been focusing on **applied AI for business processes**: connecting E
 
 **Projects**
 - [Interactive CV](https://victoriacarbonell.github.io): my experience, projects and background
+- [Garmin MCP connector](https://github.com/victoriacarbonell/garmin-mcp-connector): personal, read-only MCP server that lets AI assistants like Claude read my own Garmin Connect data through the official Personal API (Python, OAuth) · work in progress
+- [Claude skills](https://github.com/victoriacarbonell/claude-skills): skills for Claude that I build and use in my own work, starting with a model router that delegates large tasks to cheaper models
 - [Machine vision part inspection](https://github.com/victoriacarbonell/machine-vision-part-inspection): C# desktop app that detects and classifies mechanical parts in real time with an industrial camera and rule-based computer vision (Emgu CV / OpenCV) · university project
 - [NutriApp](https://github.com/victoriacarbonell/nutri-app): calorie and nutrition tracker PWA with AI photo analysis (React, TypeScript, Express, PostgreSQL), built with AI-assisted development on Replit · work in progress
 
